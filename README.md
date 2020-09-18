@@ -3,6 +3,13 @@
 ## Autor: ##
 **Jonatan Esteban Gonzalez Rodriguez**
 
+## Despliegue en _Heroku_ ##
+**Link:** https://dry-waters-76765.herokuapp.com/Login
+
+**Credenciales de acceso:**
+   - _Usuario: jonatan@mail.com_
+   - _Contraseña: 1234_
+
 ## Despliegue en _Firebase_ ##
 **Link:** https://taks-planner-app-bc354.web.app/
 
